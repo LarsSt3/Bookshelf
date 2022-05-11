@@ -1,4 +1,4 @@
-package ch.bzz.bookshelf;
+package ch.bzz.bookshelf.model;
 
 import java.math.BigDecimal;
 

@@ -1,4 +1,6 @@
-package ch.bzz.bookshelf;
+package ch.bzz.bookshelf.model;
+
+import ch.bzz.bookshelf.model.Book;
 
 import java.util.List;
 
